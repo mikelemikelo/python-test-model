@@ -1,6 +1,7 @@
 {
   "custom" : {
     "modelImage" : "modelop/runtime:dev-rhel8-mon",
-    "newProperty" : "Update"
+    "newProperty" : "Update",
+    "AdditionalProperty": "Update2"
   }
 }
